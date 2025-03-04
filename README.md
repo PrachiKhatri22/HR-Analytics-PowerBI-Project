@@ -59,7 +59,13 @@ This dataset contains employee demographic, job role, satisfaction, attrition, a
 ### 👴 Attrition Among Older Employees (Over 55) is Alarmingly High (**72.73%**)  
 - Might indicate **lack of engagement, retirement trends, or industry shifts**.  
 - Organizations should introduce **mentorship programs** to retain experienced professionals.
-- 
+
+## 🌟 How This Dashboard Adds Value  
+
+✔️ **Identifies Problem Areas** – Highlights high attrition departments & demographics.  
+📊 **Supports Strategic Decision-Making** – Provides data-backed insights for workforce planning.  
+🎯 **Enhances Employee Retention Efforts** – Helps HR design targeted interventions.  
+💡 **Improves Job Satisfaction Understanding** – Enables HR to enhance work culture & engagement.  
 
 <h2>🔗 Next Steps for HR Teams </h2>
 - Deep dive into R&D & Sales attrition reasons – Conduct surveys & exit interviews. <br>
