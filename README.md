@@ -1,5 +1,9 @@
 # 📊 HR Analytics Dashboard  
 
+## Dashboard  
+![HR Analytics Dashboard]([https://your-image-url.com/dashboard.png](https://github.com/PrachiKhatri22/HR-Analytics-PowerBI-Project/blob/main/HR%20Analysis%20Dashboard.png))
+
+
 ## 📌 Problem Statement  
 Employee attrition is a critical challenge for organizations, impacting productivity, operational costs, and workforce stability. High turnover rates can lead to increased hiring expenses, loss of institutional knowledge, and decreased employee morale. However, many companies struggle to identify the root causes of attrition and dissatisfaction due to a lack of data-driven insights.  
 
