@@ -1,8 +1,10 @@
 # 📊 HR Analytics Dashboard  
 
 ## Dashboard  
-![HR Analytics Dashboard]([https://your-image-url.com/dashboard.png](https://github.com/PrachiKhatri22/HR-Analytics-PowerBI-Project/blob/main/HR%20Analysis%20Dashboard.png))
+![HR Analysis Dashboard](https://github.com/user-attachments/assets/f94b7831-52e8-443b-8b83-6f9ae3f00ef6)
 
+
+By leveraging **data visualization**, this dashboard enables HR teams to move beyond **guesswork** and implement strategies that enhance **employee retention, productivity, and overall organizational health**.  
 
 ## 📌 Problem Statement  
 Employee attrition is a critical challenge for organizations, impacting productivity, operational costs, and workforce stability. High turnover rates can lead to increased hiring expenses, loss of institutional knowledge, and decreased employee morale. However, many companies struggle to identify the root causes of attrition and dissatisfaction due to a lack of data-driven insights.  
@@ -22,9 +24,7 @@ I developed this **HR Analytics Dashboard** to bridge this gap by providing **cl
 ✅ **Make informed decisions** on retention strategies using real-time data.  
 ✅ **Identify risk areas early** and take proactive measures to reduce turnover.  
 
-By leveraging **data visualization**, this dashboard enables HR teams to move beyond **guesswork** and implement strategies that enhance **employee retention, productivity, and overall organizational health**.  
 
----
 
 ## 👥 Who It Is Useful For  
 - **HR Professionals & Talent Managers** – Helps in identifying attrition trends, improving employee retention, and making strategic hiring decisions.  
@@ -37,7 +37,7 @@ By leveraging **data visualization**, this dashboard enables HR teams to move be
 ---
 
 ## 📂 Dataset Used  
-This dataset contains **employee demographic, job role, satisfaction, attrition, and performance-related attributes**, enabling HR analytics to identify key factors influencing workforce retention and engagement.  
+This dataset contains **employee demographic, job role, satisfaction, attrition, and performance-related attributes**, enabling HR analytics to identify key factors influencing workforce retention and engagement.  <a href="https://github.com/PrachiKhatri22/HR-Analytics-PowerBI-Project/blob/main/HR%20Data.xlsx">Excel</a> <br>
 
 **File Format:** `.xlsx` (Excel)  
 
