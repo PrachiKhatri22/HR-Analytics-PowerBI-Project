@@ -13,3 +13,11 @@ I developed this HR Analytics Dashboard to bridge this gap by providing clear, i
 - Identify risk areas early and take proactive measures to reduce turnover.
 
 By leveraging data visualization, this dashboard enables HR teams to move beyond guesswork and implement strategies that enhance employee retention, productivity, and overall organizational health. 
+
+<h2>Who It Is Useful For</h2>
+<b>HR Professionals & Talent Managers:</b> Helps in identifying attrition trends, improving employee retention, and making strategic hiring decisions. <br>
+<b>Business Leaders & Executives:</b> Provides insights into workforce stability, employee satisfaction, and overall organizational health. <br>
+<b>People Analytics Teams:</b> Supports data-driven HR strategies by uncovering key workforce patterns and trends. <br>
+<b>Managers & Team Leads:</b> Assists in understanding team dynamics, addressing job satisfaction concerns, and reducing turnover within departments. <br>
+<b>Recruitment & Workforce Planning Teams:</b> Helps in forecasting hiring needs based on attrition trends and demographic analysis. <br>
+<b>Data Analysts & BI Professionals:</b> Showcases how data visualization and analytics can be leveraged for HR decision-making.
