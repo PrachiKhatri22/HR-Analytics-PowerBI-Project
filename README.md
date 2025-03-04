@@ -26,7 +26,17 @@ By leveraging data visualization, this dashboard enables HR teams to move beyond
 This dataset contains employee demographic, job role, satisfaction, attrition, and performance-related attributes, enabling HR analytics to identify key factors influencing workforce retention and engagement. <br>
 <a href="https://github.com/PrachiKhatri22/HR-Analytics-PowerBI-Project/blob/main/HR%20Data.xlsx">Excel File </a> <br>
 
-
+<h2> 📊 8 Key Performance Indicators (KPIs) Addressed</h2>
+<ol>
+  <li>Overall Workforce Size – Helps track employee count and hiring trends.</li>
+  <li>Attrition Rate – Indicates workforce stability and retention challenges.</li>
+  <li>Department-wise Attrition – Identifies departments with high turnover.</li>
+  <li>Job Satisfaction Levels – Assesses employee morale and job fulfillment.</li>
+  <li>Employee Age Distribution – Helps with workforce planning and succession strategies.</li>
+  <li>Education-wise Attrition – Highlights which education backgrounds have higher attrition.</li>
+  <li>Active vs. Attrition Comparison – Gives a clear picture of employee retention.</li>
+  <li>Attrition by Gender & Age – Provides demographic insights into workforce retention trends. </li>
+</ol> 
 
 <h2> Next Steps for HR Teams <h2>
 - Deep dive into R&D & Sales attrition reasons – Conduct surveys & exit interviews. <br>
