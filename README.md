@@ -28,10 +28,10 @@ This dataset contains employee demographic, job role, satisfaction, attrition, a
 
 
 
-🔗 Next Steps for HR Teams
-🚀 Deep dive into R&D & Sales attrition reasons – Conduct surveys & exit interviews.
-🚀 Enhance mid-career retention strategies – Career progression plans & incentives.
-🚀 Improve engagement for older employees – Flexible working hours & mentorship programs.
+🔗<h2> Next Steps for HR Teams <h2>
+🚀 Deep dive into R&D & Sales attrition reasons – Conduct surveys & exit interviews. <br>
+🚀 Enhance mid-career retention strategies – Career progression plans & incentives. <br>
+🚀 Improve engagement for older employees – Flexible working hours & mentorship programs. <br>
 🚀 Re-evaluate education-based hiring trends – Address why certain fields see higher exits.
 
 
