@@ -21,3 +21,17 @@ By leveraging data visualization, this dashboard enables HR teams to move beyond
 <b>Managers & Team Leads:</b> Assists in understanding team dynamics, addressing job satisfaction concerns, and reducing turnover within departments. <br>
 <b>Recruitment & Workforce Planning Teams:</b> Helps in forecasting hiring needs based on attrition trends and demographic analysis. <br>
 <b>Data Analysts & BI Professionals:</b> Showcases how data visualization and analytics can be leveraged for HR decision-making.
+
+<h2>Dataset Used</h2>
+This dataset contains employee demographic, job role, satisfaction, attrition, and performance-related attributes, enabling HR analytics to identify key factors influencing workforce retention and engagement. <br>
+<a href="https://github.com/PrachiKhatri22/HR-Analytics-PowerBI-Project/blob/main/HR%20Data.xlsx">Excel File </a> <br>
+
+
+
+🔗 Next Steps for HR Teams
+🚀 Deep dive into R&D & Sales attrition reasons – Conduct surveys & exit interviews.
+🚀 Enhance mid-career retention strategies – Career progression plans & incentives.
+🚀 Improve engagement for older employees – Flexible working hours & mentorship programs.
+🚀 Re-evaluate education-based hiring trends – Address why certain fields see higher exits.
+
+
